@@ -1,0 +1,9 @@
+.oakley {
+  margin: 0;
+  padding: 0;
+  padding-top: 40px;
+}
+
+.oakley__width {
+  max-width: 784px;
+}
